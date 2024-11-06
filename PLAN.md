@@ -5,7 +5,7 @@
   - Все повторить)))
   - Практика
  ### Pandas:
-  - Переводы типов (из csv в ```pd.DataFrame```)
+  - Переводы типов (из csv в ```python pd.DataFrame```)
  - Matplotlib (seaborn)
  - sklearn (метрики)
  - Git
