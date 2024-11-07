@@ -9,6 +9,8 @@
  - Matplotlib (seaborn)
  - sklearn (метрики)
  - Git
+ ### OpenCV:
+  -все повторить, особенно способы изменения изображений 
 ## Изучить:
  - Pytorch
  - Git
